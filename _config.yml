@@ -12,3 +12,7 @@ github_repo: "https://github.com/yuchensong960426/yuchensong960426.github.io" # 
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Grasp all, lose all！"
 sidebar-avatar: '/Yuchen.jpg'      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
