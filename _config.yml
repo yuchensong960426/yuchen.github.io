@@ -1,40 +1,40 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Yuchen Song
+subtitle: Gary's Website
+description: Welcome to Yuchen's Website
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Yuchen Song
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Blog/Technical post
+url: "https://github.com/yuchensong960426/yuchen.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: yuchen960426
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    weibo: 没有壳的小小蜗
+    github: yuchensong960426
+    zhihu: 小蜗握莴卧窝
+    # juejin: 
+    #jianshu: 
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: yuchen.song@connect.polyu.hk
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: xxxx  
+#baidu:
+#id: xxxx  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
+#ga:
+#id: xxxx  
+#host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
