@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: Hello
 date: 2019-11-27 
 ---
 
